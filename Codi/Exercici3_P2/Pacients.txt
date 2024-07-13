@@ -1,0 +1,2 @@
+671222,Oscar,Romero,OK
+788272,Enric,Bonany,NOT_OK
